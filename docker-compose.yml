@@ -1,0 +1,18 @@
+services:
+  xray:
+    image: teddysun/xray
+    hostname: xray
+    restart: always
+    ports:
+      - "9000:9000"
+    volumes:
+      - /etc/xray:/etc/xray
+
+  # walle
+  walle:
+    build: .
+    restart: always
+    depends_on:
+      - xray
+
+
