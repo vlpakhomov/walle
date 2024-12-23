@@ -217,6 +217,7 @@ docker compose up -d
 ## 📫 Contact
 
 Vladislav Pakhomov - [@gregmackool](https://t.me/gregmackool) - [vladislavpakhomov03@gmail.com](mailto:vladislavpakhomov03@gmail.com)
+<br/>
 Maxim Prokhorov - [@nottoxxic](https://t.me/nottoxxic) - [maksim78998@gmail.com](mailto:maksim78998@gmail.com)
 
 Project Link: clone https://github.com/vlpakhomov/walle
